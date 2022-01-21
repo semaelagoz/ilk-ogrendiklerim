@@ -1,0 +1,2 @@
+# ilk-ogrendiklerim
+ilk
