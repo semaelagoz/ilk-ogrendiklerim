@@ -1,1 +1,63 @@
-gönderme denemesi 
+/*var a = prompt('birinci sınav notunu giriniz');
+var b = prompt('ikinci sınav notonu giriniz');
+
+if ((a + b) / 2 < '85') {
+  console.log('sınav sonucu başarısızdır')
+} else {
+  console.log('sınav sonucu başarılı bulunmuştur.')
+}
+
+
+var 1 = 'ocak'
+var 2 = 'şubat'
+var 3 = 'mart'
+var 4 = 'nisan'
+var 5 = 'mayıs'
+var 6 = 'haziran'
+var 7 = 'temmuz'
+var 8 = 'ağustos'
+var 9 = 'eylül'
+var 10 = 'ekim'
+var 11 = 'kasım'
+var 12 = 'aralık'
+
+
+for (var i = 0; i =< 3; i++) {
+
+  switch (prompt('ay giriniz')) {
+    case 'ocak':
+    case 'şubat':
+    case 'aralık':
+      console.log('kış mevsimi');
+      break;
+    case 'nisan':
+    case 'mayıs':
+    case 'mart':
+      console.log('ilk bahar mevsimi');
+      break;
+    case 'haziran':
+    case 'temmuz':
+    case 'ağustos':
+      console.log('yaz mevsimi');
+      break;
+    case 'eylül':
+    case 'ekim':
+    case 'kasım':
+      console.log('sonbahar mevsimi');
+      break;
+
+
+  }
+}
+
+
+
+var a1 = prompt('doğum yılını giriniz');
+if (2022 - a1 > 18) {
+  console.log('ehliyet alabilirsiniz');
+
+} else {
+  console.log('ehliyet alamazsınız' + ' ' + (18 - (2022 - a1)) +
+    ' yıl beklemeniz gerekmektedir.');
+}
+*/
